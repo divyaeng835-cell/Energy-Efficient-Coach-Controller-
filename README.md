@@ -125,5 +125,13 @@ Endmodule
 ## Simulation Output
 <img width="1920" height="1080" alt="Screenshot 2025-11-18 154426" src="https://github.com/user-attachments/assets/5050eaee-3df9-4ff8-b5e0-7887b92279a6" /> 
 
+## Hardware output
+
+![WhatsApp Image 2025-11-19 at 13 15 53_572e4c93](https://github.com/user-attachments/assets/fcc1c589-5461-41a8-a27a-4746c8e4f0b0)
+
+
+
+
+
 ## Result
 The FSM-based coach controller successfully detected passenger presence and automatically controlled the lights and fan. The system operated accurately with timed shutoff, achieving energy-efficient performance.
